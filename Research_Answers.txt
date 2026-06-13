@@ -1,0 +1,54 @@
+netstat
+
+Purpose:
+Displays network connections and listening ports.
+
+Example Output:
+tcp 0 0 127.0.0.1:22 LISTEN
+
+Security Use Case:
+Identify suspicious network connections.
+
+ss
+
+Purpose:
+Displays socket statistics and network connections.
+
+Example Output:
+tcp LISTEN 0 128 *:22
+
+Security Use Case:
+Monitor active network communications.
+
+who
+
+Purpose:
+Shows logged-in users.
+
+Example Output:
+kali pts/0
+
+Security Use Case:
+Detect unauthorized logins.
+
+w
+
+Purpose:
+Shows logged-in users and their activities.
+
+Example Output:
+USER TTY FROM LOGIN@ IDLE
+
+Security Use Case:
+Monitor active user sessions.
+
+last
+
+Purpose:
+Displays login history.
+
+Example Output:
+kali pts/0 192.168.1.5
+
+Security Use Case:
+Investigate login activity and security incidents.
