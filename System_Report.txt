@@ -1,0 +1,26 @@
+System Information Report
+
+User: kali
+Hostname: kali
+
+Date & Time:
+Sat Jun 13 01:53:14 PM EDT 2026
+
+Current Directory:
+/home/kali/Desktop
+
+Memory Usage:
+ total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.2Gi       154Mi        48Mi       743Mi       695Mi
+Swap:          953Mi       275Mi       678Mi
+                                                                                  
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            863M     0  863M   0% /dev
+tmpfs           194M  1.2M  193M   1% /run
+/dev/sda1        79G   19G   56G  26% /
+tmpfs           967M  4.0K  967M   1% /dev/shm
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           967M  4.3M  963M   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           194M  108K  194M   1% /run/user/1000
