@@ -1,0 +1,35 @@
+ps
+Displays running processes.
+
+ps aux
+Displays detailed information about all running processes.
+
+top
+Displays real-time process and resource usage.
+
+htop
+Interactive process monitoring tool.
+
+kill
+Terminates a process.
+
+kill -9
+Forcefully terminates a process.
+
+free -h
+Displays memory usage.
+
+df -h
+Displays disk usage.
+
+uptime
+Displays system uptime.
+
+uname -a
+Displays kernel and system information.
+
+systemctl status
+Displays service status.
+
+chmod +x
+Makes a script executable.
