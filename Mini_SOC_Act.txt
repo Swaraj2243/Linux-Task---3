@@ -1,0 +1,11 @@
+How would you identify resource-heavy processes?
+
+I would use top, htop, and ps aux commands to identify processes consuming high CPU or memory resources.
+
+How would you determine whether a process is suspicious?
+
+I would check the process name, PID, resource usage, owner, and whether it is expected on the system.
+
+What information would you collect before terminating a process?
+
+I would collect the PID, process name, user account running the process, CPU and memory usage, command path, and the potential impact on the system before terminating it.
